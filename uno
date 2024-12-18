@@ -1,3 +1,0 @@
-rosso
-verde
-nero
