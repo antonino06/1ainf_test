@@ -62,7 +62,7 @@ ul {
     color: blue;
 }
 .header {
-    background-color: red;
+    background-color: #1e85c9;
 }
 .header h1 {
     color: white;
@@ -80,4 +80,27 @@ ol {
 }
 p {
     padding: 0 0 0 50px;
+}
+h1 {
+    margin: 0;
+    padding: 15px 0 10px 0;
+}
+.nav {
+    padding: 0 0 15px 0;
+}
+.header { 
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+.header a {
+    color: #ffffff;
+}
+.header h1 {
+    color: #ffffff;
+}
+.main-content {
+    width:  90%;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #666666;
+    margin: 30px auto 0 auto;
 }
