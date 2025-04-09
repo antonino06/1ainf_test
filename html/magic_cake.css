@@ -58,8 +58,11 @@ ul {
 .recipes h3 {
     border-bottom: 0;
 }
+.recipes p {
+    padding-left: 0;
+}
 .recipes a:hover {
-    color: blue;
+    color: #7FACAA;
 }
 .header {
     background-color: #1e85c9;
@@ -103,4 +106,21 @@ h1 {
     padding: 20px 20px 20px 20px;
     border: 1px solid #666666;
     margin: 30px auto 0 auto;
+}
+.photos {
+    list-style-type:  none;
+    padding: 0;
+}
+.photos li {
+    display: inline;
+    padding-left: 11px;
+}
+.photos img {
+    width: 30%;
+}
+.header img {
+    width: 15%;
+}
+.header {    
+    text-align: center;
 }
